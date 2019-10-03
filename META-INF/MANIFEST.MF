@@ -1,0 +1,3 @@
+Manifest-Version: resources.0
+Main-Class: by.elli.examples.core.Main
+

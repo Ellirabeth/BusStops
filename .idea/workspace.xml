@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="[G_E]Helper:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0eb8a9b5-a781-4e8e-8d7a-396daf3a0639" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PJVQyeduQLHwJ6lBXD2daB8Yoo" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25422138" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops\src\resources\files" />
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops" />
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops\src" />
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops\src\resources" />
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops\src\elli\by\examples\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Cloud.mail.ru\E_Intel_IDEA\BusStops\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.elli.bot.Commands.essentials" />
+      <recent name="by.elli.bot.Commands.chat.AlphabetCharset" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.elli.examples.core" />
+      <recent name="elli.by.examples.utils" />
+      <recent name="by.elli.bot.core" />
+      <recent name="by.elli.bot.listeners" />
+      <recent name="by.elli.bot.Commands.chat" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.elli.examples.core.Main" />
+      <module name="BusStops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.elli.examples.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatTest.testCallActionDeletePrevChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusStops" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DateFormatTest" />
+      <option name="METHOD_NAME" value="testCallActionDeletePrevChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DateFormatTest.testCallActionDeletePrevChar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eb8a9b5-a781-4e8e-8d7a-396daf3a0639" name="Default Changelist" comment="" />
+      <created>1561992097038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561992097038</updated>
+      <workItem from="1561992102243" duration="11790000" />
+      <workItem from="1565592182851" duration="1108000" />
+      <workItem from="1565710820051" duration="10941000" />
+      <workItem from="1565761228245" duration="583000" />
+      <workItem from="1565804893689" duration="7011000" />
+      <workItem from="1565973633098" duration="4937000" />
+      <workItem from="1566051631507" duration="11646000" />
+      <workItem from="1566646938210" duration="8408000" />
+      <workItem from="1566718108438" duration="1826000" />
+      <workItem from="1566750345775" duration="8633000" />
+      <workItem from="1566998923807" duration="16869000" />
+      <workItem from="1567237978590" duration="76000" />
+      <workItem from="1567244791705" duration="8712000" />
+      <workItem from="1567332501986" duration="2927000" />
+      <workItem from="1567448263008" duration="3277000" />
+      <workItem from="1567517274786" duration="2167000" />
+      <workItem from="1567660579890" duration="17926000" />
+      <workItem from="1567852057468" duration="13907000" />
+      <workItem from="1569919663035" duration="7036000" />
+      <workItem from="1569927799547" duration="4534000" />
+      <workItem from="1569932368908" duration="13635000" />
+      <workItem from="1570010168038" duration="17152000" />
+      <workItem from="1570093631594" duration="7759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/bot/commands/chat/Say.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/elli/examples/commands/Parser.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
